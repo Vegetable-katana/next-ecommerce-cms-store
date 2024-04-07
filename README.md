@@ -7,9 +7,8 @@ For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
 
-## MAKE SURE YOU HAVE [ADMIN](https://github.com/AntonioErdeljac/next13-ecommerce-admin/tree/master) SETUP FIRST!
+## MAKE SURE YOU HAVE [ADMIN](https://github.com/Vegetable-katana/next-ecommerce-cms-store/tree/master) SETUP FIRST!
 
-[VIDEO TUTORIAL](https://youtu.be/5miHyP6lExg)
 
 Key Features:
 
@@ -38,7 +37,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-store.git
+git clone https://github.com/Vegetable-katana/next-ecommerce-cms-store.git
 ```
 
 ### Install packages
